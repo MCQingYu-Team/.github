@@ -14,31 +14,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Query mc.aqcraft.cn and build status.json
+      - name: Load the previous uptime history from the status branch
         run: |
           set -euo pipefail
-          api="https://api.mcsrvstat.us/3/mc.aqcraft.cn"
-          data=$(curl -fsS --max-time 20 "$api" || echo '{}')
-          online=$(printf '%s' "$data" | jq -r '.online // false')
-          players=$(printf '%s' "$data" | jq -r '.players.online // 0')
-          max=$(printf '%s' "$data" | jq -r '.players.max // 0')
-          if [ "$online" = "true" ]; then
-            message="在线 · ${players}/${max} 人"
-            color="2ea44f"
+          if git fetch origin status --depth=1 2>/dev/null &&
+             git show origin/status:status-history.json > history.json; then
+            echo "history loaded: $(jq '.samples | length' history.json) samples"
           else
-            message="离线"
-            color="cf222e"
+            echo '{"samples": []}' > history.json
+            echo "no history yet, starting fresh"
           fi
-          jq -n --arg label "主服" --arg message "$message" --arg color "$color" \
-            '{schemaVersion: 1, label: $label, message: $message, color: $color, labelColor: "242943", style: "flat-square"}' \
-            > server-status.json
-          cat server-status.json
+
+      - name: Query mc.aqcraft.cn
+        run: |
+          set -euo pipefail
+          data=$(curl -fsS --max-time 20 https://api.mcsrvstat.us/3/mc.aqcraft.cn || echo '{}')
+          if [ "$(printf '%s' "$data" | jq -r '.online // false')" = "true" ]; then
+            echo "up" > state.txt
+          else
+            echo "down" > state.txt
+          fi
+          cat state.txt
+
+      - name: Render server-status.json and uptime.svg
+        run: python3 scripts/render-status.py "$(cat state.txt)"
 
       - name: Publish to the status branch
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add server-status.json
+          git add server-status.json uptime.svg status-history.json
           git commit -m "chore: update server status" || exit 0
           git push --force origin HEAD:status

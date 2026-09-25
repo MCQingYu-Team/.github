@@ -15,6 +15,8 @@
 [![规则文档](https://img.shields.io/badge/%E8%A7%84%E5%88%99%E6%96%87%E6%A1%A3-QingYu--docs-9bf1ff?style=flat-square&labelColor=242943)](https://github.com/MCQingYu-Team/QingYu-docs)
 [![主服](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMCQingYu-Team%2F.github%2Fstatus%2Fserver-status.json&style=flat-square&labelColor=242943&cacheSeconds=300)](https://cubexmc.org/lookup)
 
+<img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/status/uptime.svg" alt="主服近 48 小时在线情况" width="400">
+
 </div>
 
 ---
