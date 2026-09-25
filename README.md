@@ -83,6 +83,20 @@ flowchart LR
 - **反馈**：规则与文档问题可在 [QingYu-docs](https://github.com/MCQingYu-Team/QingYu-docs) 提交 Issue 或 Pull Request。
 - **申诉**：处罚申诉与解封走封禁系统与群内流程，不通过 Issue 处理。
 
+<div align="center">
+
+[![组织语言构成](https://github-stats-extended.vercel.app/api/top-langs/?username=MCQingYu-Team&layout=compact&langs_count=6&card_width=420&custom_title=%E7%BB%84%E7%BB%87%E8%AF%AD%E8%A8%80%E6%9E%84%E6%88%90&locale=cn&bg_color=FFFFFF0D&title_color=9bf1ff&text_color=d4d4ff&border_color=3a4166&border_radius=0&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
+
+</div>
+
+<div align="center">
+
+[![QingYu-docs](https://github-stats-extended.vercel.app/api/pin/?username=MCQingYu-Team&repo=QingYu-docs&bg_color=FFFFFF0D&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0&locale=cn&show_owner=false)](https://github.com/MCQingYu-Team/QingYu-docs)
+&nbsp;
+[![.github](https://github-stats-extended.vercel.app/api/pin/?username=MCQingYu-Team&repo=.github&bg_color=FFFFFF0D&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0&locale=cn&show_owner=false)](https://github.com/MCQingYu-Team/.github)
+
+</div>
+
 ## 链接
 
 | 类别 | 地址 |
