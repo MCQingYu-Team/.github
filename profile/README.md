@@ -76,7 +76,7 @@ flowchart TB
 ## 与 CubeX 的合作关系
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/main/assets/logo.svg" width="68" alt="清屿服务器">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/main/assets/partners/cubex.png" width="68" alt="CubeX-MC（方块叉）">
+  <img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/main/assets/logo.png" width="68" alt="清屿服务器">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/main/assets/partners/cubex.png" width="68" alt="CubeX-MC（方块叉）">
   <br><br>
   <sub>清屿服务器 × CubeX-MC（方块叉 / CubeX 研究院）</sub><br>
   <sub>两侧标识仅用于标识合作关系，版权分别归清屿服务器与 CubeX 研究院所有</sub>
