@@ -57,8 +57,6 @@ flowchart TB
   <sub>两侧标识仅用于标识合作关系，版权分别归清屿服务器与 CubeX 研究院所有</sub>
 </div>
 
-清屿与 [CubeX-MC（方块叉 / CubeX 研究院）](https://github.com/orgs/CubeX-MC/) 是**合作组织**关系，而非从属或合并。CubeX 起自 WolfX Commune 社区，2021 年 11 月开服；2026 年由研究院接管 GitHub 组织与 `cubexmc.org`，并提出「泛 CubeX」概念——以品牌为核心，把为社区做出过贡献的人与仍在运转的服务器都算进来。清屿服即这一网络中被收录、并有持续观测记录的一台服务器（CubeX 研究院服务器档案 SRV 第 04 条）。
-
 ```mermaid
 flowchart LR
     R["CubeX 研究院<br/>github.com/orgs/CubeX-MC"] --- L["CubeX Lite"]
