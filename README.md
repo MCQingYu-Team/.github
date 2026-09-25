@@ -91,11 +91,6 @@ flowchart LR
 | 规则与条例 | <https://github.com/MCQingYu-Team/QingYu-docs> |
 | 封禁系统 | <https://ban.aqcraft.cn/> |
 | QQ 群 | <https://qm.qq.com/q/UtMBMfsr8m> |
-| 主服网页地图 | <http://202.189.10.108:20851/> |
-| 测试服网页地图 | <http://202.189.10.109:30198/> |
-| 合作组织 | <https://github.com/orgs/CubeX-MC/> |
-| 服务器档案 | <https://cubexmc.org/servers/> |
-| 服务器查询 | <https://cubexmc.org/lookup> |
 
 <div align="center">
 
