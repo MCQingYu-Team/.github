@@ -13,7 +13,7 @@
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-aqcraft.cn-9bf1ff?style=flat-square&labelColor=242943)](https://www.aqcraft.cn/)
 [![QQ 群](https://img.shields.io/badge/QQ%E7%BE%A4-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-9bf1ff?style=flat-square&labelColor=242943)](https://qm.qq.com/q/UtMBMfsr8m)
 [![规则文档](https://img.shields.io/badge/%E8%A7%84%E5%88%99%E6%96%87%E6%A1%A3-QingYu--docs-9bf1ff?style=flat-square&labelColor=242943)](https://github.com/MCQingYu-Team/QingYu-docs)
-[![主服](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMCQingYu-Team%2F.github%2Fstatus%2Fstatus.json&style=flat-square&labelColor=242943)](https://cubexmc.org/lookup)
+[![主服](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMCQingYu-Team%2F.github%2Fstatus%2Fserver-status.json&style=flat-square&labelColor=242943)](https://cubexmc.org/lookup)
 
 </div>
 
@@ -51,7 +51,7 @@ flowchart TB
 ## 与 CubeX 的合作关系
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/main/assets/partners/qingyu-cubex.png" width="248" alt="清屿服务器 &amp; CubeX-MC（方块叉 / CubeX 研究院）">
+  <img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/main/assets/partners/lockup.png" width="248" alt="清屿服务器 &amp; CubeX-MC（方块叉 / CubeX 研究院）">
   <br><br>
   <sub>清屿服务器 &amp; CubeX-MC（方块叉 / CubeX 研究院）</sub><br>
   <sub>两侧标识仅用于标识合作关系，版权分别归清屿服务器与 CubeX 研究院所有</sub>
