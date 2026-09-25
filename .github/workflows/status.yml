@@ -1,0 +1,44 @@
+name: Server status badge
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Query mc.aqcraft.cn and build status.json
+        run: |
+          set -euo pipefail
+          api="https://api.mcsrvstat.us/3/mc.aqcraft.cn"
+          data=$(curl -fsS --max-time 20 "$api" || echo '{}')
+          online=$(printf '%s' "$data" | jq -r '.online // false')
+          players=$(printf '%s' "$data" | jq -r '.players.online // 0')
+          max=$(printf '%s' "$data" | jq -r '.players.max // 0')
+          if [ "$online" = "true" ]; then
+            message="在线 · ${players}/${max} 人"
+            color="2ea44f"
+          else
+            message="离线"
+            color="cf222e"
+          fi
+          jq -n --arg label "主服" --arg message "$message" --arg color "$color" \
+            '{schemaVersion: 1, label: $label, message: $message, color: $color, labelColor: "242943", style: "flat-square"}' \
+            > status.json
+          cat status.json
+
+      - name: Publish to the status branch
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add status.json
+          git commit -m "chore: update server status" || exit 0
+          git push --force origin HEAD:status
