@@ -19,7 +19,7 @@
 [![主服在线](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2Fmc.aqcraft.cn&query=%24.players.online&label=%E4%B8%BB%E6%9C%8D%E5%9C%A8%E7%BA%BF&style=flat-square&labelColor=242943&color=9bf1ff)](https://cubexmc.org/lookup)
 [![测试服在线](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2Ftest.aqcraft.cn&query=%24.players.online&label=%E6%B5%8B%E8%AF%95%E6%9C%8D%E5%9C%A8%E7%BA%BF&style=flat-square&labelColor=242943&color=9bf1ff)](https://cubexmc.org/lookup)
 [![玩法](https://img.shields.io/badge/%E7%8E%A9%E6%B3%95-%E7%94%9F%E7%94%B5%20%C2%B7%20%E7%BA%A2%E7%9F%B3%20%C2%B7%20%E6%8A%80%E6%9C%AF%E5%90%91-9bf1ff?style=flat-square&labelColor=242943)](#关于清屿)
-[![数据互通](https://img.shields.io/badge/%E5%85%A5%E5%8F%A3-Java%20%2B%20Bedrock-9bf1ff?style=flat-square&labelColor=242943)](#服务器)
+![数据互通](https://img.shields.io/badge/%E5%85%A5%E5%8F%A3-Java%20%2B%20Bedrock-9bf1ff?style=flat-square&labelColor=242943)
 
 </div>
 
@@ -36,15 +36,6 @@
 > [!NOTE]
 > 清屿与此前所属的 ChenRay 服务器、ChenRay 团队及其负责人 CYY 在人员、组织、资金与数据上均无关联；
 > 双方的规则、处罚记录、账号与存档互不相干，任一方的决定与行为不由另一方承担或背书。
-
-## 服务器
-
-| 入口 | 地址 | 支持版本 | 网页地图 |
-| --- | --- | --- | --- |
-| 主服 · Java | `mc.aqcraft.cn` | 1.20 – 26.3 | [主服地图](http://202.189.10.108:20851/) |
-| 主服 · 基岩 | `202.189.10.108:20577` | 26.0 – 26.5 | [主服地图](http://202.189.10.108:20851/) |
-| 测试服 · Java | `test.aqcraft.cn` | 1.20 – 26.3 | [测试服地图](http://202.189.10.109:30198/) |
-| 测试服 · 基岩 | `202.189.10.109:30187` | 26.0 – 26.5 | [测试服地图](http://202.189.10.109:30198/) |
 
 ## 治理与身份
 
