@@ -45,7 +45,7 @@ def main() -> None:
         "label": "主服",
         "message": "在线" if state == "up" else "离线",
         "color": COLORS["up"] if state == "up" else COLORS["down"],
-        "labelColor": "242943",
+        "labelColor": "rgba(36,41,67,0.5)",
         "style": "flat-square",
     }
     Path("server-status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2) + "\n")

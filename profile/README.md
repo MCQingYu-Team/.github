@@ -10,10 +10,10 @@
 
 <div align="center">
 
-[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-aqcraft.cn-9bf1ff?style=flat-square&labelColor=242943)](https://www.aqcraft.cn/)
-[![QQ 群](https://img.shields.io/badge/QQ%E7%BE%A4-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-9bf1ff?style=flat-square&labelColor=242943)](https://qm.qq.com/q/UtMBMfsr8m)
-[![规则文档](https://img.shields.io/badge/%E8%A7%84%E5%88%99%E6%96%87%E6%A1%A3-QingYu--docs-9bf1ff?style=flat-square&labelColor=242943)](https://github.com/MCQingYu-Team/QingYu-docs)
-[![主服](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMCQingYu-Team%2F.github%2Fstatus%2Fserver-status.json&style=flat-square&labelColor=242943&cacheSeconds=120)](https://cubexmc.org/lookup)
+[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-aqcraft.cn-9bf1ff?style=flat-square&labelColor=rgba%2836%2C41%2C67%2C0.5%29)](https://www.aqcraft.cn/)
+[![QQ 群](https://img.shields.io/badge/QQ%E7%BE%A4-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-9bf1ff?style=flat-square&labelColor=rgba%2836%2C41%2C67%2C0.5%29)](https://qm.qq.com/q/UtMBMfsr8m)
+[![规则文档](https://img.shields.io/badge/%E8%A7%84%E5%88%99%E6%96%87%E6%A1%A3-QingYu--docs-9bf1ff?style=flat-square&labelColor=rgba%2836%2C41%2C67%2C0.5%29)](https://github.com/MCQingYu-Team/QingYu-docs)
+[![主服](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMCQingYu-Team%2F.github%2Fstatus%2Fserver-status.json&style=flat-square&cacheSeconds=120)](https://cubexmc.org/lookup)
 
 </div>
 
@@ -85,15 +85,15 @@ flowchart LR
 
 <div align="center">
 
-[![组织语言构成](https://github-stats-extended.vercel.app/api/top-langs/?username=MCQingYu-Team&layout=compact&langs_count=6&card_width=420&custom_title=%E7%BB%84%E7%BB%87%E8%AF%AD%E8%A8%80%E6%9E%84%E6%88%90&locale=cn&bg_color=FFFFFF0D&title_color=9bf1ff&text_color=d4d4ff&border_color=3a4166&border_radius=0&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
+[![组织语言构成](https://github-stats-extended.vercel.app/api/top-langs/?username=MCQingYu-Team&layout=compact&langs_count=6&card_width=420&custom_title=%E7%BB%84%E7%BB%87%E8%AF%AD%E8%A8%80%E6%9E%84%E6%88%90&locale=cn&bg_color=24294380&title_color=9bf1ff&text_color=d4d4ff&border_color=3a4166&border_radius=0&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
 <div align="center">
 
-[![QingYu-docs](https://github-stats-extended.vercel.app/api/pin/?username=MCQingYu-Team&repo=QingYu-docs&bg_color=FFFFFF0D&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0&locale=cn&show_owner=false)](https://github.com/MCQingYu-Team/QingYu-docs)
+[![QingYu-docs](https://github-stats-extended.vercel.app/api/pin/?username=MCQingYu-Team&repo=QingYu-docs&bg_color=24294380&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0&locale=cn&show_owner=false)](https://github.com/MCQingYu-Team/QingYu-docs)
 &nbsp;
-[![.github](https://github-stats-extended.vercel.app/api/pin/?username=MCQingYu-Team&repo=.github&bg_color=FFFFFF0D&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0&locale=cn&show_owner=false)](https://github.com/MCQingYu-Team/.github)
+[![.github](https://github-stats-extended.vercel.app/api/pin/?username=MCQingYu-Team&repo=.github&bg_color=24294380&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0&locale=cn&show_owner=false)](https://github.com/MCQingYu-Team/.github)
 
 </div>
 
