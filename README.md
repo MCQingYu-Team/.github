@@ -14,12 +14,7 @@
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-aqcraft.cn-9bf1ff?style=flat-square&labelColor=242943)](https://www.aqcraft.cn/)
 [![QQ 群](https://img.shields.io/badge/QQ%E7%BE%A4-%E5%8A%A0%E5%85%A5%E7%BE%A4%E8%81%8A-9bf1ff?style=flat-square&labelColor=242943)](https://qm.qq.com/q/UtMBMfsr8m)
 [![规则文档](https://img.shields.io/badge/%E8%A7%84%E5%88%99%E6%96%87%E6%A1%A3-QingYu--docs-9bf1ff?style=flat-square&labelColor=242943)](https://github.com/MCQingYu-Team/QingYu-docs)
-[![CubeX 档案](https://img.shields.io/badge/CubeX%20%E6%A1%A3%E6%A1%88-%E6%94%B6%E5%BD%95%E7%AB%99%E7%82%B9-9bf1ff?style=flat-square&labelColor=242943)](https://cubexmc.org/servers/)
-
 [![主服在线](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2Fmc.aqcraft.cn&query=%24.players.online&label=%E4%B8%BB%E6%9C%8D%E5%9C%A8%E7%BA%BF&style=flat-square&labelColor=242943&color=9bf1ff)](https://cubexmc.org/lookup)
-[![测试服在线](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2Ftest.aqcraft.cn&query=%24.players.online&label=%E6%B5%8B%E8%AF%95%E6%9C%8D%E5%9C%A8%E7%BA%BF&style=flat-square&labelColor=242943&color=9bf1ff)](https://cubexmc.org/lookup)
-[![玩法](https://img.shields.io/badge/%E7%8E%A9%E6%B3%95-%E7%94%9F%E7%94%B5%20%C2%B7%20%E7%BA%A2%E7%9F%B3%20%C2%B7%20%E6%8A%80%E6%9C%AF%E5%90%91-9bf1ff?style=flat-square&labelColor=242943)](#关于清屿)
-![数据互通](https://img.shields.io/badge/%E5%85%A5%E5%8F%A3-Java%20%2B%20Bedrock-9bf1ff?style=flat-square&labelColor=242943)
 
 </div>
 
