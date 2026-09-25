@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="清屿服务器 QingYu Minecraft Server">
+  <defs>
+    <clipPath id="qy-banner-mark">
+      <circle cx="1012" cy="180" r="94"/>
+    </clipPath>
+    <style>
+      .qy-sans { font-family: 'Source Sans Pro', 'Segoe UI', 'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="360" fill="#242943"/>
+  <rect x="0.5" y="0.5" width="1279" height="359" fill="none" stroke="#3a4166" stroke-width="1"/>
+
+  <text class="qy-sans" x="72" y="86" fill="#9bf1ff" font-size="13" letter-spacing="4">MCQINGYU-TEAM</text>
+  <line x1="72" y1="104" x2="316" y2="104" stroke="#3a4166" stroke-width="1"/>
+
+  <text class="qy-sans" x="72" y="178" fill="#ffffff" font-size="72" font-weight="600" letter-spacing="10">清屿</text>
+  <text class="qy-sans" x="76" y="214" fill="#d4d4ff" fill-opacity="0.6" font-size="15" letter-spacing="9">QINGYU MINECRAFT SERVER</text>
+
+  <line x1="72" y1="246" x2="700" y2="246" stroke="#3a4166" stroke-width="1"/>
+  <text class="qy-sans" x="72" y="284" fill="#9bf1ff" font-size="17" letter-spacing="2">海风拂过清屿，愿每分每秒都温柔。</text>
+  <text class="qy-sans" x="72" y="318" fill="#d4d4ff" fill-opacity="0.55" font-size="13" letter-spacing="3">生电 · 红石科技 · 技术向生存 ／ Java + Bedrock</text>
+
+  <circle cx="1012" cy="180" r="94" fill="none" stroke="#9bf1ff" stroke-width="1.5" stroke-opacity="0.85"/>
+  <g clip-path="url(#qy-banner-mark)">
+    <path d="M918 150 q23.5 -12 47 0 t47 0 t47 0 t47 0" fill="none" stroke="#9bf1ff" stroke-width="1.5" stroke-opacity="0.35"/>
+    <path d="M918 180 q23.5 -12 47 0 t47 0 t47 0 t47 0" fill="none" stroke="#9bf1ff" stroke-width="1.5" stroke-opacity="0.7"/>
+    <path d="M918 210 q23.5 -12 47 0 t47 0 t47 0 t47 0" fill="none" stroke="#9bf1ff" stroke-width="1.5" stroke-opacity="0.35"/>
+    <path d="M982 152 L1012 104 L1042 152 Z" fill="#9bf1ff" fill-opacity="0.9"/>
+  </g>
+</svg>
