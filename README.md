@@ -73,32 +73,6 @@ flowchart TB
 
 身份只回答「你在清屿做什么」，不分等级；长期离开后回归属于状态变化，不是独立身份。完整条款见 [QingYu-docs](https://github.com/MCQingYu-Team/QingYu-docs) 中的《玩家身份与治理条例》与《七日阳光流程》。
 
-## 仓库
-
-| 仓库 | 用途 | 说明 |
-| --- | --- | --- |
-| [QingYu-docs](https://github.com/MCQingYu-Team/QingYu-docs) | 规则与条例 | 玩家守则、管理员条例、处罚细目、身份与治理条例，附一致性校验脚本 |
-| [.github](https://github.com/MCQingYu-Team/.github) | 组织首页 | 本组织主页与品牌素材 |
-
-<div align="center">
-
-[![组织语言构成](https://github-stats-extended.vercel.app/api/top-langs/?username=MCQingYu-Team&layout=compact&langs_count=6&card_width=420&custom_title=%E7%BB%84%E7%BB%87%E8%AF%AD%E8%A8%80%E6%9E%84%E6%88%90&locale=cn&bg_color=242943&title_color=9bf1ff&text_color=d4d4ff&border_color=3a4166&border_radius=0&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
-
-</div>
-
-<div align="center">
-
-[![QingYu-docs](https://github-stats-extended.vercel.app/api/pin/?username=MCQingYu-Team&repo=QingYu-docs&bg_color=242943&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0&locale=cn&show_owner=false)](https://github.com/MCQingYu-Team/QingYu-docs)
-&nbsp;
-[![.github](https://github-stats-extended.vercel.app/api/pin/?username=MCQingYu-Team&repo=.github&bg_color=242943&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0&locale=cn&show_owner=false)](https://github.com/MCQingYu-Team/.github)
-
-[![维护者数据](https://github-stats-extended.vercel.app/api?username=ALingqing&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues,prs&custom_title=%E7%BB%B4%E6%8A%A4%E8%80%85%20%C2%B7%20ALingqing&locale=cn&card_width=440&bg_color=242943&title_color=9bf1ff&text_color=d4d4ff&icon_color=9bf1ff&border_color=3a4166&border_radius=0)](https://github.com/ALingqing)
-
-</div>
-
-<!-- 组织级 api 卡片（?username=MCQingYu-Team 的 stats 卡）依赖 contributionsCollection，
-     组织账号无法返回该字段，卡片会渲染为报错图，因此此处只保留组织可用的 top-langs 与 pin 卡片。 -->
-
 ## 与 CubeX 的合作关系
 
 <div align="center">
