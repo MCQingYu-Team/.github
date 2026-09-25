@@ -101,6 +101,13 @@ flowchart TB
 
 ## 与 CubeX 的合作关系
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/main/assets/logo.svg" width="72" alt="清屿服务器">&nbsp;&nbsp;&nbsp;&nbsp;×&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MCQingYu-Team/.github/main/assets/partners/cubex.png" width="72" alt="CubeX-MC（方块叉）">
+  <br><br>
+  <sub>清屿服务器 · 合作组织 · CubeX-MC（方块叉 / CubeX 研究院）</sub><br>
+  <sub>CubeX 标识版权归 CubeX 研究院所有，此处仅用于标识合作关系</sub>
+</div>
+
 清屿与 [CubeX-MC（方块叉 / CubeX 研究院）](https://github.com/orgs/CubeX-MC/) 是**合作组织**关系，而非从属或合并。CubeX 起自 WolfX Commune 社区，2021 年 11 月开服；2026 年由研究院接管 GitHub 组织与 `cubexmc.org`，并提出「泛 CubeX」概念——以品牌为核心，把为社区做出过贡献的人与仍在运转的服务器都算进来。清屿服即这一网络中被收录并有持续观测记录的一台服务器。
 
 ```mermaid
